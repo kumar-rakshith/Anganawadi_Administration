@@ -3,15 +3,7 @@
     define('DIR', '');
     require_once DIR . 'config.php';
 
-    // $control = new Controller(); 
-
-    // $admin = new Admin();   
-
-    // $admin->notLogged('admin', '../index');
-
-    // $id = $_SESSION['admin'];
-
-    // $_SESSION['sidebar'] = "dashboard";
+  
 
 
     ?>
