@@ -15,5 +15,4 @@ else
 	alert("Failed to delete a staff"); window.location="staffview.php";
 </script>';
 }
-
 ?>
