@@ -1,22 +1,9 @@
 <?php
-    /**
-     * Created by VV.
-     * User: VV
-     * Date: 12-Jan-2020
-     * Time: 3:38PM
-     */
+ 
     define('DIR', '');
     require_once DIR . 'config.php';
 
-    // $control = new Controller(); 
-
-    // $admin = new Admin();   
-
-    // $admin->notLogged('admin', '../index');
-
-    // $id = $_SESSION['admin'];
-
-    // $_SESSION['sidebar'] = "dashboard";
+  
 
 
     ?>
