@@ -5,7 +5,6 @@
  * Date: todays date
  * Time: todays time
  */
-
 ob_start();
 session_start();
 //=========== database connection variables ====================
