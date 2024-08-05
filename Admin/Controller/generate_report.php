@@ -1,7 +1,6 @@
 <?php
   
   include('../connect.php');
-
   if(isset($_POST['generate'])){
 
     //USer Defined Variables
