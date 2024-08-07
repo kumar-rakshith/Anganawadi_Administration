@@ -2,7 +2,7 @@
   
   include('../connect.php');
   if(isset($_POST['generate'])){
-
+    
     //USer Defined Variables
     $filename=$_POST['filename'];
     $format=$_POST['format'];
