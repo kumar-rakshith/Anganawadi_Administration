@@ -3,7 +3,6 @@ define('DIR','../../');
 require_once DIR.'config.php';
 $control=new Controller();
 $admin=new Admin();
-
 if(isset($_POST['add']))
 {
 	$no=$_POST['no'];
