@@ -14,6 +14,7 @@ if(isset($_POST['add']))
 		$stmt=$admin->cud("INSERT INTO `tbl_attendance`(`child_id`,`status`,`date`) VALUES ('".$name."','".$status."',now())","saved");
 	}
 
+
 	echo "<script>alert('data saved');</script>";
 	$admin->redirect('../viewAttendance');
 
