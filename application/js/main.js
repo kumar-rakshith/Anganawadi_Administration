@@ -73,6 +73,7 @@
         $(thisAlert).removeClass('alert-validate');
         $(thisAlert).find('.btn-hide-validate').remove();
     }
+
     
     
 
